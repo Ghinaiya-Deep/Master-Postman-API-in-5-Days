@@ -24,7 +24,7 @@ Organize requests into collections, automate them using Collection Runner, and a
 If this helped you, give it a ⭐ star and share with your developer friends!
 
 📢 Don’t forget to follow the full series on GitHub:  
-🔗 [github.com/Ghinaiya-Deep]([https://github.com/Ghinaiya-Deep](https://github.com/Ghinaiya-Deep/Master-Postman-API-in-5-Days/))
+🔗 [github.com/Ghinaiya-Deep](https://github.com/Ghinaiya-Deep/Master-Postman-API-in-5-Days/)
 
 👋 Connect with me on LinkedIn  
 💼 Name: **Deep Ghinaiya** – Software Developer  
